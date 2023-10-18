@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProtonWave
+comment1.params=
+comment1.target=ProtonWave()
+comment2.params=
+comment2.target=void\ initializeImages()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ grow()
+numComments=6
